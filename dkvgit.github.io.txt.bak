@@ -1,0 +1,16 @@
+dkvgit.github.io
+
+http://dkvgit.github.io
+
+--------
+Адрес BTC TRC 20 USDT
+13NVbWsgGoRNA19emoEBfUkBSJBD8hqZBm
+
+--------------------------------------
+
+# Создать новую чистую ветку без мата
+git checkout --orphan clean-branch
+git add .
+git commit -m "Чистая версия сайта"
+git branch -M main
+git push -f origin main

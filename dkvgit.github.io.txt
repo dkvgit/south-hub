@@ -1,0 +1,15 @@
+dkvgit.github.io
+
+http://dkvgit.github.io
+
+--------
+Адрес BTC TRC 20 USDT
+13NVbWsgGoRNA19emoEBfUkBSJBD8hqZBm
+
+--------------------------------------
+cd D:\aRabota\TelegaBoom\028_donatesite
+git checkout --orphan clean-branch
+git add .
+git commit -m "1"
+git branch -M main
+git push -f origin main
